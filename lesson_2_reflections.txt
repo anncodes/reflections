@@ -6,3 +6,8 @@ project into a Git repository or
 initialising a new empty repository.
 We need to do git init to create
 a .git subdirectory.
+
+How is the staging area different from the working 
+directory and the repository? 
+What value do you think it offers?
+Staging area is...
